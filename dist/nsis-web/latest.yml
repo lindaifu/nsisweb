@@ -1,14 +1,14 @@
 version: 1.1.0
 files:
   - url: nsisweb_Setup_1.1.0.exe
-    sha512: GZPLOopnmTqkOy8h7rmV0/BMGZ0i23oufnmBm+UOIXiXilnQFI9Jv2VltXDLgjpFds/eXmnpIHKYO7ArqkTYtQ==
+    sha512: XUg9ynelIwwLCC69TYnxooP2ovxoVLKTBYhlBm6HKXy9D5+ExvyiZqAXsE+JFPA4KJS8j49ATC8tuSJ9sqNHOg==
 path: nsisweb_Setup_1.1.0.exe
-sha512: GZPLOopnmTqkOy8h7rmV0/BMGZ0i23oufnmBm+UOIXiXilnQFI9Jv2VltXDLgjpFds/eXmnpIHKYO7ArqkTYtQ==
+sha512: XUg9ynelIwwLCC69TYnxooP2ovxoVLKTBYhlBm6HKXy9D5+ExvyiZqAXsE+JFPA4KJS8j49ATC8tuSJ9sqNHOg==
 packages:
   x64:
-    size: 40456378
-    sha512: ZL0H+9yKrP8QgKYbKUnHWekww5rKPTzS6o8Y6JUvJXrDtk2Z3kquz/aWizURdzNpKNBw66p0GHMJtWBvA+e4Ug==
-    blockMapSize: 43317
+    size: 40456384
+    sha512: MndfWzDrrV7vV4135aRlpSJGk4eCX8IMIya8kIEDbvWoC0lHldMyFWD8Oxet0k0PJtM82zwuAhdiixmt27ajJw==
+    blockMapSize: 43391
     path: nsisweb-1.1.0-x64.nsis.7z
     file: nsisweb-1.1.0-x64.nsis.7z
-releaseDate: '2019-11-01T09:16:20.024Z'
+releaseDate: '2019-11-01T09:22:44.048Z'
