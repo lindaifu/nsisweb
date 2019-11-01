@@ -1,0 +1,27 @@
+directories:
+  output: dist
+  buildResources: build
+appId: nsisweb.test.linyang
+files:
+  - filter:
+      - package.json
+      - main.js
+      - icon.ico
+      - web
+win:
+  icon: icon.ico
+  target:
+    - target: nsis-web
+      arch:
+        - x64
+nsisWeb:
+  artifactName: '${productName}_Setup_${version}.${ext}'
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  perMachine: true
+publish:
+  provider: github
+  repo: electron-app
+  owner: lindaifu
+  releaseType: release
+electronVersion: 4.2.12
