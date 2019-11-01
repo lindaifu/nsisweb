@@ -21,7 +21,7 @@ nsisWeb:
   perMachine: true
 publish:
   provider: github
-  repo: electron-app
+  repo: nsisweb
   owner: lindaifu
   releaseType: release
 electronVersion: 4.2.12
